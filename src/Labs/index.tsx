@@ -27,20 +27,21 @@ const LabWork = () => {
             <div className="col-6">
               <div className="headings-card">
                 <h1>Shrivarshini Narayanan</h1>
-                <h2>CS5610 sec-03</h2>
+                <h2>WEB DEVELOPMENT</h2>
+                <h4>SEC - 03</h4>
               </div>
             </div>
             <div className="col" />
           </div>
           <div className="button-container">
-            <a href="https://github.com/varsh1009">
+            <a href="https://github.com/Varsh1009/A5-Frontend">
               <button className="button">
                 {" "}
                 Source Code Repository - Frontend <FaGithub />
               </button>
             </a>
 
-            <a href="https://github.com/AxonBlAzE/CS-5610---Kanbas-Backend">
+            <a href="https://github.com/Varsh1009/A5-Backend">
               <button className="button">
                 {" "}
                 Source Code Repository - Backend <FaGithub />
@@ -74,8 +75,7 @@ const LabWork = () => {
 
         {/* <h1>Lab Work</h1> */}
         {/* <div className="headings">
-        <h1>Shreyans Mulkutkar</h1>
-        <h4>CS5610 - 20596</h4>
+        <h1>Shrivarshini</h1>
       </div> */}
         {/* <h2>Lab 1</h2> */}
 

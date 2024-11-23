@@ -25,7 +25,7 @@ h1 {
   /* color: #ffffff; */
   text-transform: uppercase;
   letter-spacing: 2px;
-  border-bottom: 2px solid #a0a5e2;
+  border-bottom: 2px solid ;
   padding-bottom: 10px;
 }
 
@@ -62,7 +62,7 @@ thead {
 }
 
 a {
-  color: #a0a5e2;
+  color: #4f7489;
   text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ a:hover {
 
 .button {
   padding: 12px 24px;
-  background-color: #a0a5e2;
+  background-color: #383c69;
   /* color: #121212; */
   border: none;
   border-radius: 5px;
@@ -92,7 +92,7 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #c2c6f3;
+  background-color: #7ba2bd;
   transform: translateY(-3px);
   box-shadow: 0 4px 15px rgba(160, 165, 226, 0.3);
 }

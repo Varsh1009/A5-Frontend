@@ -57,12 +57,12 @@ const LandingPage = () => {
             name="A1"
             description="Created a landing page for CS5610 that will contain the hyperlinks to all the following assignments as well as implemented the lab-work which includes getting familiar with headings, paragraphs, lists, links, tables and routing."
             // url="./#/labwork"
-            url="https://a1--cs5610-shreyansmulkutkar-assignments.netlify.app/"
+            url=""
           />
           <TableRow
             name="A2"
             description="Gained familiarity with different concepts of CSS and Bootstrap through lab work and utilized these skills to style our website. Additionally, I improved the UI of my Kanbas application by integrating CSS, Bootstrap, and React Icons, making it look more like the original Canvas web app."
-            url="https://a2--cs5610-shreyansmulkutkar-assignments.netlify.app/"
+            url=""
           />
           <TableRow name="A3" description="Coming Soon..." url="" />
           <TableRow name="A4" description="Coming Soon..." url="" />

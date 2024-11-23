@@ -1,0 +1,162 @@
+[
+  {
+    "user": "Tony Stark",
+    "_id": "001234561S",
+    "course": "RS101",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-01",
+    "totalActivity": "10:21:32"
+  },
+  {
+    "user": "Bruce Wayne",
+    "_id": "001234562S",
+    "course": "RS102",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-02",
+    "totalActivity": "12:15:42"
+  },
+  {
+    "user": "Steve Rogers",
+    "_id": "001234563S",
+    "course": "RS103",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-03",
+    "totalActivity": "08:12:50"
+  },
+  {
+    "user": "Natasha Romanoff",
+    "_id": "001234564S",
+    "course": "RS104",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-04",
+    "totalActivity": "14:05:21"
+  },
+  {
+    "user": "Peter Parker",
+    "_id": "001234565S",
+    "course": "RS101",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-05",
+    "totalActivity": "09:33:17"
+  },
+  {
+    "user": "Clark Kent",
+    "_id": "001234566S",
+    "course": "S106",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-06",
+    "totalActivity": "11:45:38"
+  },
+  {
+    "user": "Diana Prince",
+    "_id": "001234567S",
+    "course": "S107",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-07",
+    "totalActivity": "13:10:25"
+  },
+  {
+    "user": "Wanda Maximoff",
+    "_id": "001234568S",
+    "course": "S108",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-08",
+    "totalActivity": "10:50:48"
+  },
+  {
+    "user": "Bruce Banner",
+    "_id": "001234569S",
+    "course": "S109",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-09",
+    "totalActivity": "12:22:37"
+  },
+  {
+    "user": "Thor Odinson",
+    "_id": "001234570S",
+    "course": "S110",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-10",
+    "totalActivity": "07:55:29"
+  },
+  {
+    "user": "Scott Lang",
+    "_id": "001234571S",
+    "course": "RS101",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-11",
+    "totalActivity": "09:15:30"
+  },
+  {
+    "user": "T'Challa",
+    "_id": "001234572S",
+    "course": "RS102",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-12",
+    "totalActivity": "08:45:12"
+  },
+  {
+    "user": "Carol Danvers",
+    "_id": "001234573S",
+    "course": "RS101",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-13",
+    "totalActivity": "11:05:45"
+  },
+  {
+    "user": "Stephen Strange",
+    "_id": "001234574S",
+    "course": "RS103",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-14",
+    "totalActivity": "10:20:14"
+  },
+  {
+    "user": "James Rhodes",
+    "_id": "001234575S",
+    "course": "RS101",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-15",
+    "totalActivity": "12:30:25"
+  },
+  {
+    "user": "Sam Wilson",
+    "_id": "001234576S",
+    "course": "RS104",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-16",
+    "totalActivity": "09:45:35"
+  },
+  {
+    "user": "Shuri",
+    "_id": "001234577S",
+    "course": "RS101",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-17",
+    "totalActivity": "07:50:11"
+  },
+  {
+    "user": "Bucky Barnes",
+    "_id": "001234578S",
+    "course": "RS102",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-18",
+    "totalActivity": "10:15:55"
+  },
+  {
+    "user": "Pepper Potts",
+    "_id": "001234579S",
+    "course": "RS101",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-19",
+    "totalActivity": "11:40:22"
+  },
+  {
+    "user": "Clint Barton",
+    "_id": "001234580S",
+    "course": "RS103",
+    "role": "STUDENT",
+    "lastActivity": "2020-10-20",
+    "totalActivity": "09:25:48"
+  }
+]
